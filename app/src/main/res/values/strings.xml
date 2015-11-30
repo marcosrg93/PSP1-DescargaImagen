@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PSP1-Descargar</string>
+    <string name="action_settings">Actualizar</string>
+    <string name="action_save">Guardar</string>
+</resources>
